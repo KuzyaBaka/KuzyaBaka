@@ -12,4 +12,6 @@ About me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&target=blank)](https://www.linkedin.com/in/dmitry-kuznetsov-854689256/) [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/KuzyaBaka) [![VK](https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk)](https://www.linkedin.com/in/dmitry-kuznetsov-854689256/)
 
-## GitHub Stats:
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=KuzyaBaka&show_icons=true&theme=dark) ![](https://github-readme-streak-stats.herokuapp.com/?user=KuzyaBaka&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KuzyaBaka&theme=dark&include_all_commits=true&count_private=false&layout=donut)
