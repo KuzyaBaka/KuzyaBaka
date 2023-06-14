@@ -1,5 +1,6 @@
-About me
+# Hi! I'm Dmitry
 
+And I'm a beginner front-end developer :)
 ## My Codewars:
 
 [![alt rank](https://www.codewars.com/users/KuzyaBaka/badges/large)](https://www.codewars.com/users/KuzyaBaka)
