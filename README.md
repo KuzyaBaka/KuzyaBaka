@@ -2,7 +2,7 @@ About me
 
 ## My Codewars:
 
-![alt rank](https://www.codewars.com/users/KuzyaBaka/badges/large)
+[![alt rank](https://www.codewars.com/users/KuzyaBaka/badges/large)](https://www.codewars.com/users/KuzyaBaka)
 
 ## ⌨️ Tech stack:
 
